@@ -1,3 +1,4 @@
 Rencana Konten eLJalee Company
-- Atur jam Editing Vidio
+- Atur jadwal Editing Vidio
+- Atur jadwal Dubbing Vidio
 - Konsisten GOBLOG
